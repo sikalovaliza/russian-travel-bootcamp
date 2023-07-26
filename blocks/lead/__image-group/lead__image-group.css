@@ -1,0 +1,41 @@
+.lead__image-group {
+  margin: 0 auto;
+  padding: 0;
+  background-image: url("/../../images/Group 4.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 1;
+}
+
+@media screen and (min-width: 320px) {
+  .lead__image-group {
+    width: 304.74px;
+    height: 85.53px;
+    margin-top: 29.34px;
+  }
+} 
+
+@media screen and (min-width: 768px) {
+  .lead__image-group {
+    width: 731.38px;
+    height: 205.26px;
+    margin-top: 70.41px;
+  }
+} 
+
+@media screen and (min-width: 1024px) {
+  .lead__image-group {
+    width: 883.76px;
+    height: 248.02px;
+    margin-top: 85.07px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__image-group {
+    width: 937.09px;
+    height: 262.99px;
+    margin-top: 90.21px;
+  }
+} 

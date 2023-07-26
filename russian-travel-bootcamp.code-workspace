@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "russian-travel-bootcamp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "russian-travel-bootcamp"
+	}
+}
