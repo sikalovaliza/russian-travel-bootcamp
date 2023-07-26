@@ -19,15 +19,6 @@
     row-gap: 48px;
   }
 
-  .place:nth-child(4) {
-    height: 458px;
-  }
-
-  .place:nth-child(5) {
-    height: 484px;
-    grid-template-rows: 46px 390px;
-  }
-
   .place:first-child {
     grid-template-rows: 92px;
   }

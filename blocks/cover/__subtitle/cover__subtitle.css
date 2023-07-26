@@ -1,4 +1,6 @@
 .cover__subtitle {
+  margin: 0;
+  padding: 0;
   position: absolute;
   letter-spacing: 0em;
   text-align: center;
