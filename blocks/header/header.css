@@ -8,29 +8,27 @@
 
 @media screen and (min-width: 320px) {
   .header {
-    max-height: 42px;
     margin-top: 16px;
-    width: 288px;
+    min-width: 288px;
   }
 } 
 
 @media screen and (min-width: 768px) {
   .header {
-    width: 720px;
-    height: 52px;
+    min-width: 720px;
     margin-top: 28px;
   }
 } 
 
 @media screen and (min-width: 1024px) {
   .header {
-    width: 928px;
+    min-width: 928px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .header {
-    width: 1184px;
+    min-width: 1184px;
   }
 } 
 
