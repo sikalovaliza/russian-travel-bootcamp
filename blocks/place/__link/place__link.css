@@ -12,12 +12,3 @@
   opacity: 80%;
   cursor: pointer;
 }
-
-.place__link:active {
-  width: 13.853639602661133px;
-  height: 17px;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-linear-gradient(0deg, #FFFFFF, #FFFFFF);
-  border: 1px solid #000000CC;
-  box-shadow: 0px 1px 3px 0px #00000033;
-}

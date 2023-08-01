@@ -9,7 +9,6 @@
   .places {
     margin-top: 64px;
     width: 100%;
-    height: 5177px;
     gap: 50px;
   }
 } 
@@ -18,7 +17,6 @@
   .places {
     margin-top: 88px;
     width: 720px;
-    height: 2880px;
     gap: 73px;
   }
 } 
@@ -27,7 +25,6 @@
   .places {
     margin-top: 92px;
     width: 928px;
-    height: 3292px;
     gap: 80px;
   }
 }
@@ -36,7 +33,6 @@
   .places {
     margin-top: 92px;
     width: 984px;
-    height: 3398px;
     gap: 80px;
   }
 } 
